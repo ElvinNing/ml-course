@@ -1,1 +1,0 @@
-Andrew Ng's course exercise with Python.
